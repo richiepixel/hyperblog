@@ -5,9 +5,8 @@ Mi edad es 34
 Mañana nos enfocaremos en su trabajo.
 
 Richie --> Master 1
-
 Master 2
+Master 3, Master 4
 
-Master 3
 
 Test
